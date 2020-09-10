@@ -5,5 +5,3 @@
 ## 5. [[Language (advanced topics)]]
 ## 6. [[Acknowledgments]]
 ## 7. [[Further Reading]]
-## [Language advanced topics](Transducers)
-## [[Acknowledgments]]
