@@ -1,7 +1,7 @@
 ---
 title: About this book
 ---
-This book covers the ClojureScript programming language, serves as a
+## This book covers the ClojureScript programming language, serves as a
 detailed guide of its tooling for development, and presents a series of
 articles about topics that are applicable to day-to-day programming in
 ClojureScript.
