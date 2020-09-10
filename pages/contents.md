@@ -6,5 +6,5 @@
 ## 6. [[Acknowledgments]]
 ## 7. [[Further Reading]]
 ## 📖 **Reading together**
-/add your name here/
-###
+_Add you name here :)_
+### [[Tienson Qin]]
