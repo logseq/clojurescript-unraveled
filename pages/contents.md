@@ -6,7 +6,7 @@
 ## 6. [[Acknowledgments]]
 ## 7. [[Further Reading]]
 ## 💭 [[Questions]]
-## 📖 **Learn together**
+## 📖 Learn together
 :PROPERTIES:
 :start_time: [[Sep 10th, 2020]]
 :END:
