@@ -1,3 +1,7 @@
+---
+title: Tooling & Compiler
+---
+
 # Getting Started with the Compiler
 
 At this point, you are surely very bored with the constant theoretical
@@ -13,7 +17,7 @@ environments where it can be executed - each with its own peculiarities.
 This chapter intends to explain how to use *ClojureScript* without any
 additional tooling. This will help you understand how the compiler works
 and how you can use it when other tooling is not available (such as
-[leiningen](http://leiningen.org/)  
+[leiningen](http://leiningen.org/)
 [cljsbuild](https://github.com/emezeske/lein-cljsbuild) or
 [boot](http://boot-clj.com/)).
 

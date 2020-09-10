@@ -1,3 +1,7 @@
+---
+title: Language (the basics)
+---
+
 # First steps with Lisp syntax
 
 Invented by John McCarthy in 1958, Lisp is one of the oldest programming

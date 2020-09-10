@@ -1,3 +1,7 @@
+---
+title: Appendix
+---
+
 # Appendix A: Interactive development with Figwheel
 
 ## Introduction
