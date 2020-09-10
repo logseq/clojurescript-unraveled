@@ -6,5 +6,9 @@
 ## 6. [[Acknowledgments]]
 ## 7. [[Further Reading]]
 ## 📖 **Reading together**
+:PROPERTIES:
+:start_time: [[Sep 10th, 2020]]
+:END:
+
 _Add you name here :)_
 ### [[Tienson Qin]]
