@@ -1,2 +1,2 @@
 ## [[About this book]]
-## [mice](Mouse)
+## [Language basics](First steps with Lisp syntax)
