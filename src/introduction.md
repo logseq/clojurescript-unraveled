@@ -2,8 +2,8 @@
 title: Introduction
 ---
 ## Introduction 
-> Why are we doing this? Because Clojure *rocks*, and JavaScript
-> *reaches*.
+> Why are we doing this? Because Clojure *rocks*, and JavaScript 
+>  *reaches*.
 >
 > —  Rich Hickey
 
@@ -57,7 +57,7 @@ to transform it, explicit idioms for managing change over time and
 polymorphic constructs for programming to abstractions greatly simplify
 the systems we write.
 
-> We can make the same exact software we are making today with
+> We can make the same exact software we are making today with 
 > dramatically simpler stuff — dramatically simpler languages, tools,
 > techniques, approaches.
 >
