@@ -1,7 +1,7 @@
 ---
 title: Introduction
 ---
-## ## Introduction 
+## Introduction 
 > Why are we doing this? Because Clojure *rocks*, and JavaScript
 > *reaches*.
 >
