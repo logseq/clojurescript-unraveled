@@ -1,4 +1,4 @@
-# Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 
