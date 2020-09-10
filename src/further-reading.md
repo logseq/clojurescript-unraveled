@@ -1,8 +1,7 @@
 ---
 title: Further Reading
 ---
-
-Here is a list of more resources about ClojureScript.
+## Here is a list of more resources about ClojureScript.
 
   - [ClojureScript wiki](https://github.com/clojure/clojurescript/wiki):
     a community-mantained wiki about ClojureScript.
