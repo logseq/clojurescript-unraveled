@@ -1,8 +1,7 @@
 ---
 title: Acknowledgments
 ---
-
-Special thanks to:
+## Special thanks to:
 
   - **J David Eisenberg**: For the huge amount of time spend in fixing
     all kind of errors and writing entire sections of the book, as well
