@@ -1,4 +1,6 @@
-## Acknowledgments
+---
+title: Acknowledgments
+---
 
 Special thanks to:
 
