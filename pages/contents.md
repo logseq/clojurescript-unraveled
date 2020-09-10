@@ -5,7 +5,7 @@
 ## 5. [[Language (advanced topics)]]
 ## 6. [[Acknowledgments]]
 ## 7. [[Further Reading]]
-## 📖 **Reading together**
+## 📖 **Learn together**
 :PROPERTIES:
 :start_time: [[Sep 10th, 2020]]
 :END:
