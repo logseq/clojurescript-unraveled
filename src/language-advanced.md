@@ -5,6 +5,9 @@ title: Language (advanced topics)
 # Transducers
 
 ## Data transformation
+   :PROPERTIES:
+   :CUSTOM_ID: 5f5af49b-47f5-4bfb-a848-df6782c974e0
+   :END:
 
 ClojureScript offers a rich vocabulary for data transformation in terms
 of the sequence abstraction, which makes such transformations highly
@@ -80,7 +83,6 @@ available in memory it is being pushed to us asynchronously in a stream.
 In that situation we couldn’t reuse `process-clusters` since usually
 `map`, `filter` and `mapcat` have concrete implementations depending on
 the type.
-
 ## Generalizing to process transformations
 
 The process of mapping, filtering or mapcatting isn’t necessarily tied
